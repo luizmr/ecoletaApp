@@ -192,3 +192,5 @@ This project is under the MIT license.
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 [rs]: https://rocketseat.com.br
+
+Made with ❤️ by Luiz Marcelo Rocha
