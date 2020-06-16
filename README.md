@@ -46,9 +46,9 @@ Project developed during **NLW - Next Level Week** offered by [Rocketseat](rs).
 
 ## 🛠 Technology
 
-#### **Website** ([React][https://reactjs.org/] + [TypeScript][typescript])
+#### **Website** ([React](https://reactjs.org/) + [TypeScript][typescript])
 
--   **[React Router Dom][https://github.com/reacttraining/react-router/tree/master/packages/react-router-dom]**
+-   **[React Router Dom](https://github.com/reacttraining/react-router/tree/master/packages/react-router-dom)**
 -   **[React Icons][https://react-icons.github.io/react-icons/]**
 -   **[Axios][https://github.com/axios/axios]**
 -   **[Leaflet][https://react-leaflet.js.org/en/]**
