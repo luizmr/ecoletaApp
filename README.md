@@ -46,56 +46,53 @@ Project developed during **NLW - Next Level Week** offered by [Rocketseat](rs).
 
 ## 🛠 Technology
 
-#### **Website** ([React][react] + [TypeScript][typescript])
+#### **Website** ([React][https://reactjs.org/] + [TypeScript][typescript])
 
--   **[React Router Dom][react_router_dom]**
--   **[React Icons][react_icons]**
--   **[Axios][axios]**
--   **[Leaflet][leaflet]**
--   **[React Leaflet][react_leaflet]**
--   **[React Dropzone][react_dropzone]**
+-   **[React Router Dom][https://github.com/reacttraining/react-router/tree/master/packages/react-router-dom]**
+-   **[React Icons][https://react-icons.github.io/react-icons/]**
+-   **[Axios][https://github.com/axios/axios]**
+-   **[Leaflet][https://react-leaflet.js.org/en/]**
+-   **[React Leaflet][https://react-leaflet.js.org/]**
+-   **[React Dropzone][https://github.com/react-dropzone/react-dropzone]**
 
 \* Look the file <kbd>[package.json](./sources/website/package.json)</kbd>
 
-#### **Server** ([NodeJS][node] + [TypeScript][typescript])
+#### **Server** ([NodeJS][https://nodejs.org/en/] + [TypeScript][typescript])
 
--   **[Express][express]**
--   **[CORS][cors]**
--   **[KnexJS][knex]**
--   **[SQLite][sqlite3]**
--   **[ts-node][tsnode]**
--   **[dotENV][dotenv]**
--   **[Multer][multer]**
--   **[Celebrate][celebrate]**
--   **[Joi][joi]**
+-   **[Express][https://expressjs.com/]**
+-   **[KnexJS][http://knexjs.org/]**
+-   **[SQLite][https://github.com/mapbox/node-sqlite3]**
+-   **[ts-node][https://github.com/typestrong/ts-node]**
+-   **[Multer][https://github.com/expressjs/multer]**
+-   **[Celebrate][https://github.com/arb/celebrate]**
+-   **[Joi][https://github.com/hapijs/joi]**
 
 \* Look the file <kbd>[package.json](./sources/server/package.json)</kbd>
 
-#### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
+#### **Mobile** ([React Native][http://www.reactnative.com/] + [TypeScript][typescript])
 
 -   **[Expo][expo]**
--   **[Expo Google Fonts][expo_google_fonts]**
--   **[React Navigation][react_navigation]**
--   **[React Native Maps][react_native_maps]**
--   **[Expo Constants][expo_constants]**
--   **[React Native SVG][react_native_svg]**
--   **[Axios][axios]**
--   **[Expo Location][expo_location]**
--   **[Expo Mail Composer][expo_mail_composer]**
+-   **[Expo Google Fonts][https://github.com/expo/google-fonts]**
+-   **[React Navigation][https://reactnavigation.org/]**
+-   **[React Native Maps][https://github.com/react-native-community/react-native-maps]**
+-   **[Expo Constants][https://docs.expo.io/versions/latest/sdk/constants/]**
+-   **[React Native SVG][https://github.com/react-native-community/react-native-svg]**
+-   **[Axios][https://github.com/axios/axios]**
+-   **[Expo Location][https://docs.expo.io/versions/latest/sdk/location/]**
+-   **[Expo Mail Composer][https://docs.expo.io/versions/latest/sdk/mail-composer/]**
 
 \* Look the file <kbd>[package.json](./sources/mobile/package.json)</kbd>
 
 #### **Utilitários**
 
 -   Prototype: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)</kbd>**
--   API: **[IBGE API][ibge_api]** &rarr; **<kbd>[API de UFs][ibge_api_ufs]</kbd>**, **<kbd>[API de Municípios][ibge_api_municipios]</kbd>**
--   Maps: **[Leaflet][leaflet]**
--   Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
--   Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
--   Commit Conventional: **[Commitlint][commitlint]**
--   API test: **[Insomnia][insomnia]**
--   Icons: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
--   Fonts: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
+-   API: **[IBGE API][https://servicodados.ibge.gov.br/api/docs/localidades?versao=1]** &rarr; **<kbd>[API de UFs][https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-ufs-estadosget]</kbd>**, **<kbd>[API de Municípios][https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-municipios-estadosufmunicipiosget]</kbd>**
+-   Maps: **[Leaflet][https://react-leaflet.js.org/en/]**
+-   Editor: **[Visual Studio Code][https://code.visualstudio.com/]** &rarr; Extensions: **<kbd>[SQLite][https://marketplace.visualstudio.com/items?itemname=alexcvzz.vscode-sqlite]</kbd>**
+-   Markdown: **[StackEdit][https://stackedit.io/]**, **<kbd>[Markdown Emoji][https://github.com/login/oauth/authorize?client_id=7e0a3cd836d3e544dbd9&redirect_uri=https%3a%2f%2fgist.github.com%2fauth%2fgithub%2fcallback%3freturn_to%3dhttps%253a%252f%252fgist.github.com%252frxaviers%252f7360908&response_type=code&state=d03c72a3692b2cdbf543d49b86cea98695cbf89692148675123c5531596f7613]</kbd>**
+-   API test: **[Insomnia][https://insomnia.rest/]**
+-   Icons: **[Feather Icons][https://feathericons.com/]**, **[Font Awesome][https://fontawesome.com/]**
+-   Fonts: **[Ubuntu][https://fonts.google.com/specimen/ubuntu]**, **[Roboto][https://fonts.google.com/specimen/roboto]**
 
 ## 🚀 How to run the project
 
